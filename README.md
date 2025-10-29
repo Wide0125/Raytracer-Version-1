@@ -1,0 +1,1 @@
+A simple raytracer demo made for the paper Fundamentals of 3D Perspective Projection In Computer Graphics. Included are the source code files along with the cmakelists.txt required to build the files. Additional download of raylib.cpp is required from https://github.com/RobLoach/raylib-cpp. Use git clone and download the entire repository into the directory.
